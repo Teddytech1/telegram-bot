@@ -1,7 +1,7 @@
 global.prefix = '.'; // Set Your Preferred Prefix
 global.botName = 'ANONYMOUS-AI'; // Bot Name
 global.botVersion = '2.0.0';
-global.botPic = 'https://files.giftedtech.web.id/file/gifted-md.jpg'; // Can use path, can also use link
+global.botPic = 'https://files.catbox.moe/26brmo.jpg'; // Can use path, can also use link
 global.botToken = '7253580778:AAEJGgChLsquyZf-ZJOVjI3Nl4mEaxBR29w'; // Replace With Your Bot Token (Get it from BotFather)
 global.ownerUsername = 'Teddy_md'; // Replace With Your Telegram Username(For Bot Owner)
 global.timeZone = 'Africa/Nairobi'; // Your Time Zone
