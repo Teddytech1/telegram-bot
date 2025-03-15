@@ -1,7 +1,7 @@
 {
-  "name": "gifteed-md",
+  "name": "kibetfx bot",
   "version": "2.0.0",
-  "description": "Gifted-Md, A simple Telegram user bot Created by Gifted Tech",
+  "description": "kibetfx-not, A simple Telegram user bot Created by Kibet Tech",
   "main": "./index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "mouricedevs",
     "maher-zubair"
   ],
-  "author": "GiftedTech",
+  "author": "KibetTech",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mouricedevs/telegram- bot/issues"
